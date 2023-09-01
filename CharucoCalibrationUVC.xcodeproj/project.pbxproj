@@ -71,6 +71,7 @@
 		E2ED08DD2A9E228E0005D528 /* libopencv_calib3d.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_calib3d.dylib; path = ../../../../../../../usr/local/Cellar/opencv/4.5.4/lib/libopencv_calib3d.dylib; sourceTree = "<group>"; };
 		E2ED08DF2A9E22940005D528 /* libopencv_aruco.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_aruco.dylib; path = ../../../../../../../usr/local/Cellar/opencv/4.5.4/lib/libopencv_aruco.dylib; sourceTree = "<group>"; };
 		E2ED08E12A9E22F80005D528 /* libhidapi.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libhidapi.dylib; path = ../../../../../../../usr/local/lib/libhidapi.dylib; sourceTree = "<group>"; };
+		E2ED08E62AA1646A0005D528 /* charucoboard.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = charucoboard.js; sourceTree = "<group>"; };
 		E42962AC2163EDD300A6A9E2 /* ofCamera.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = ofCamera.cpp; path = ../../../libs/openFrameworks/3d/ofCamera.cpp; sourceTree = SOURCE_ROOT; };
 		E42962AD2163EDD300A6A9E2 /* ofMesh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofMesh.h; path = ../../../libs/openFrameworks/3d/ofMesh.h; sourceTree = SOURCE_ROOT; };
 		E42962AE2163EDD300A6A9E2 /* ofNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofNode.h; path = ../../../libs/openFrameworks/3d/ofNode.h; sourceTree = SOURCE_ROOT; };
@@ -669,6 +670,7 @@
 				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
 				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
 				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
+				E2ED08E62AA1646A0005D528 /* charucoboard.js */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
